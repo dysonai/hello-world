@@ -1,4 +1,4 @@
 <?php
-$a="hello";
-$b="world!";
-echo "$a $b";
+$a = 'hello';
+$b = 'world';
+echo "$a $b!";
