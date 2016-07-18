@@ -1,0 +1,1 @@
+test git through command line interface
